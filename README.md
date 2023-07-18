@@ -1,6 +1,6 @@
 ## Lecture09 Starter
 
-After cloning repository, please run the following commands :
+After cloning repository, open the project with VSCode and run the following commands in terminal:
 
 ```bash
 npm install
